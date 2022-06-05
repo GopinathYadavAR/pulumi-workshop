@@ -1,0 +1,3 @@
+name: pulumi-aws-java
+runtime: java
+description: This project use to practice pulumi with aws cloud using java
